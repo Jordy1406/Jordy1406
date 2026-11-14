@@ -26,6 +26,7 @@ Everything runs on local models; the total tool cost was $0.
 
 - [saucedemo-fullstack-automation-js](https://github.com/Jordy1406/saucedemo-fullstack-automation-js): Playwright + Appium + Cucumber, POM, GitHub Actions
 - [automation-web-mobile-robotframework-playwright](https://github.com/Jordy1406/automation-web-mobile-robotframework-playwright): Robot Framework + Playwright for web & mobile
+- [ai-quality-engineering-journey](https://github.com/Jordy1406/ai-quality-engineering-journey): learning log on testing LLM output (schema checks, pass rates)
 
 Professional QA stack: Playwright · Selenium · Robot Framework · Postman · JMeter · K6 · Jenkins · GitHub Actions.
 
